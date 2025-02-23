@@ -1,14 +1,12 @@
 # 火影忍者编程之道：用忍术解锁 Python 奥秘 🌀🔥
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; padding: 0 20%;"><img src="static/Sharingan.png" style="width: 100%; background-color: rgb(0, 0, 0);"><img src="static/Python.png" style="width: 100%;"></div>
+
 > **用火影忍者的方式理解 Python ！**
 >
 > 本书结合《火影忍者》经典忍术，深入浅出地讲解 Python 的核心概念和高级特性，让你在轻松愉快的阅读中掌握 Python 的精髓。
 
-## 🚀 适合谁阅读？
-
-✅ **Python 初学者**：如果你想快速掌握 Python 但又觉得枯燥，这本书用火影忍者的方式让学习变得有趣！
-✅ **Python 进阶开发者**：如果你已经掌握 Python 的基础，想更深入理解 Python 高级特性，这本书能帮你提升认知！
-✅ **火影迷**：如果你喜欢火影忍者，又想学习 Python，这本书简直是你的专属宝典！
+<audio controls autoplay src="static/动天.mp3" type="audio/mp3" style="width: 100%;"></audio>
 
 ## ✍️ 作者
 
@@ -16,7 +14,7 @@
 
 [主页](https://lcctoor.com/index.html) \| [Github](https://github.com/lcctoor) \| [微信](https://lcctoor.com/cdn/WeChatQRC.jpg) \| [邮箱](mailto:lcctoor@outlook.com) \| [捐赠](https://lcctoor.com/cdn/DonationQRC-0rmb.jpg)
 
-## 📌 目录（章节预览）
+## 📌 目录
 
 |               火影忍术 🌀               | 对应 Python 概念 🐍 | 主要知识点                                 |
 | :-------------------------------------: | :------------------: | ------------------------------------------ |
